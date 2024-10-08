@@ -11,7 +11,8 @@ This is a simple lottery game built with React and Vite. In this game, three ran
 - [License](#license)
 
 ## Demo
-Check out the live demo [here](#).
+Check out the live demo [here](#).[screencast-localhost_5173-2024_10_08-09_54_25.webm](https://github.com/user-attachments/assets/68c3edb1-21d4-4369-9685-9a7ab99679af)
+
 
 ## Features
 - **Simple & Fun**: Add three numbers randomly and check if you’re a winner.
