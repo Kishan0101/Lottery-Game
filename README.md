@@ -11,7 +11,8 @@ This is a simple lottery game built with React and Vite. In this game, three ran
 - [License](#license)
 
 ## Demo
-Check out the live demo [here](#).[screencast-localhost_5173-2024_10_08-09_54_25.webm](https://github.com/user-attachments/assets/68c3edb1-21d4-4369-9685-9a7ab99679af)
+Check out the live demo [screencast-localhost_5173-2024_10_08-09_54_25.webm](https://github.com/user-attachments/assets/96e37b19-7f1a-42fa-9562-f7bf8d1723e0)
+
 
 
 ## Features
