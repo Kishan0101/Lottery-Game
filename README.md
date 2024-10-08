@@ -10,9 +10,9 @@ This is a simple lottery game built with React and Vite. In this game, three ran
 - [Technologies](#technologies)
 - [License](#license)
 
-## Demo[screencast-localhost_5173-2024_10_08-09_54_25.webm](https://github.com/user-attachments/assets/7d2267b7-5548-4884-bcce-85b82f791efe)
 
-Check out the live demo 
+Check out the live demo [screencast-localhost_5173-2024_10_08-09_54_25.webm](https://github.com/user-attachments/assets/a1c73a38-292d-4ab0-b63f-a52e3e01ce14)
+
 
 
 
